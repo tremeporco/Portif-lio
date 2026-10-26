@@ -1,0 +1,60 @@
+
+body {
+    background-color: #1e1e1e;
+    color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+h1 {
+    color: lightblue;
+    text-align: center;
+}
+
+h2 {
+    color: lightblue;
+    border-bottom: 1px solid #555;
+    padding-bottom: 5px;
+}
+
+a {
+    color: lightblue;
+}
+
+#lista-habilidades li {
+    background-color: #333;
+    padding: 8px 12px;
+    border-radius: 5px;
+}
+
+button {
+    background-color: lightblue;
+    color: #111;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: deepskyblue;
+}
+
+footer {
+    margin-top: 30px;
+    text-align: center;
+    color: #aaa;
+}
+
+
+.imagem-projeto {
+    display: block;
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    margin: 15px auto;
+    border-radius: 8px;
+    border: 1px solid #444;
+}
